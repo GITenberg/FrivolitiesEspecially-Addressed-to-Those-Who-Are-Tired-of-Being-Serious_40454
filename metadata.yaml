@@ -1,0 +1,36 @@
+_repo: FrivolitiesEspecially-Addressed-to-Those-Who-Are-Tired-of-Being-Serious_40454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsh, Richard
+    aliases:
+    - Heldman, Richard Bernard
+    - Heldmann, Bernard
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '1718'
+    url: http://www.gutenberg.org/2009/agents/1718
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Marsh_%28author%29
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Humorous stories, English'
+- !lcsh 'Short stories, English'
+tableOfContents: The purse which was found -- For one night only -- Returning a verdict
+  -- The Chancellor's ward -- A honeymoon trip -- The burglar's blunder -- Ninepence
+  -- A battlefield up-to-date -- Mr. Harland's pupils -- A burglar alarm -- A lesson
+  in sculling -- Outside.
+title: Frivolities, Especially Addressed to Those Who Are Tired of Being Serious
+url: http://www.gutenberg.org/ebooks/40454
